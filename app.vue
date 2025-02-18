@@ -2,7 +2,7 @@
   <div class="max-w-2xl mx-auto">
     <div class="p-4 md:p-10">
       <div class="p-6 border border-gray-300 shadow rounded-lg">
-        <div class="space-y-6">
+        <div class="flex flex-col gap-6">
           <div class="flex gap-6">
             <img
               :src="ProfileImg"
